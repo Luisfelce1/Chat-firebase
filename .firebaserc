@@ -1,0 +1,18 @@
+{
+  "targets": {
+    "firechat-59062": {
+      "hosting": {
+        "fireChat": [
+          "firechat-59062"
+        ]
+      }
+    },
+    "crud-app-ca40d": {
+      "hosting": {
+        "fireChat": [
+          "crud-app-ca40d"
+        ]
+      }
+    }
+  }
+}
